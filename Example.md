@@ -1,0 +1,1 @@
+This is a simple type of content that is possible to create
